@@ -1,0 +1,20 @@
+html{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    color: yellow;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+ul{
+    text-align: center;
+    font-size: 20px;
+    font-weight:bold;
+}
